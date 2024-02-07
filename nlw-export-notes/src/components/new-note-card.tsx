@@ -5,7 +5,7 @@ export function NewNoteCard() {
         Adicionar notas
       </span>
       <p className="text-sm leading-6 text-slate-400">
-        Grave uma nota eem áudio que será convertida para texto automaticamente.
+        Grave uma nota em áudio que será convertida para texto automaticamente.
       </p>
     </div>
     )
